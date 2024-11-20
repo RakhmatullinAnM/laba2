@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "многопоточность": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
